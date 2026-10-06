@@ -1,0 +1,3 @@
+```text
+# Aucune dépendance externe pour l'instant
+```

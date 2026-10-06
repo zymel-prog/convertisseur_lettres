@@ -1,0 +1,24 @@
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers de sortie générés par ton script
+*_traduit.txt
+
+# Tes fichiers de test locaux (pour ne pas publier tes données perso)
+text.txt
+
+# Fichiers de configuration des IDE (VS Code, PyCharm...)
+.vscode/
+.idea/
+*.swp
+
+# Fichiers systèmes (macOS, Windows)
+.DS_Store
+Thumbs.db
